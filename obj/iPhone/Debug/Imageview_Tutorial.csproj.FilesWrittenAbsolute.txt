@@ -1,0 +1,12 @@
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/actool/partial-info.plist
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/checkmark.png
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/bin/iPhone/Debug/Imageview_Tutorial.exe.mdb
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/bin/iPhone/Debug/Imageview_Tutorial.exe
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/Imageview_Tutorial.exe
+/Users/harry/Projects/Imageview_Tutorial/Imageview_Tutorial/obj/iPhone/Debug/Imageview_Tutorial.exe.mdb
